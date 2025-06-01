@@ -19,7 +19,7 @@
         attribution: (string-utf8 200),
         medium: (string-utf8 15),
         authenticity: (string-utf8 15),
-        exhibition-status: (string-utf8 10),
+        exhibition-status: (string-utf8 15),
         creation-year: uint
     }
 )
